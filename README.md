@@ -8,6 +8,9 @@ View the following notebook for methodology used to cluster the data.
 
 ### Data: 
 View the following CSVs for the Chicaco Crime dataset from Google BigQuery.
+* [CrimeDowntown2018_jan_apr.csv](https://github.com/aalten77/ChicagoCrimesHeatmap/blob/master/CrimeDowntown2018_jan_apr.csv)
+* [CrimeDowntown2018_may_aug.csv](https://github.com/aalten77/ChicagoCrimesHeatmap/blob/master/CrimeDowntown2018_may_aug.csv)
+* [CrimeDowntown2018_sept_dec.csv](https://github.com/aalten77/ChicagoCrimesHeatmap/blob/master/CrimeDowntown2018_sept_dec.csv)
 
 ## Heatmap Visualization:
 For Mapbox implementation of the timelapse, view the HTML file. 

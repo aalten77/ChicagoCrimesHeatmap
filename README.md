@@ -2,6 +2,8 @@
 
 Hotspot analysis project for GEOG 171 - Advanced GIS @ SJSU. Spring 2019.
 
+To read the data dictionary, follow this link: [altena_g171_gisdatadic_final.pdf](https://drive.google.com/file/d/1Ek2wBgIFi117gup8pfb5vMOmfUxJIwsg/view?usp=sharing)
+
 ## Spatial Analysis: 
 View the following notebook for methodology used to cluster the data.
 [DBSCAN_Downtown19.ipynb](https://github.com/aalten77/ChicagoCrimesHeatmap/blob/master/DBSCAN_Downtown19.ipynb)
